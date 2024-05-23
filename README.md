@@ -12,7 +12,7 @@ This project is a simple sign-up form created using HTML, CSS, and JavaScript. I
 
 ## **Preview**
 
-![Signup Form Preview](Preview.jpg)
+
 
 ## **Features**
 
